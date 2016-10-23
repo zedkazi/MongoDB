@@ -9,14 +9,14 @@ MongoDB Terminal
 > ~$ mongo
 
 #Show all databases
-> > show dbs
+> \> show dbs
 
 #Show databases being used
-> > db
+> \> db
 
 #Create Databases
-> use newdb
-switched to db newdb
+> \> use newdb
+> switched to db newdb
 
 #Create Collection 
 
