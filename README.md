@@ -6,13 +6,13 @@ MongoDB server start
 > ~$ mongod
 
 MongoDB Terminal
-~$ mongo
+> ~$ mongo
 
 #Show all databases
-> show dbs
+> > show dbs
 
 #Show databases being used
-> db
+> > db
 
 #Create Databases
 > use newdb
